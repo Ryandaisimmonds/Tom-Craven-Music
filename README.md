@@ -6,3 +6,14 @@ Main Features:
 - Music
 - Events
 - Rolling background images
+
+Areas to work on:
+
+- Layout
+- Style
+- Header
+- About
+- Music
+- Events
+- News
+- Contact
